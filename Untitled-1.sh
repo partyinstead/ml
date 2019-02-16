@@ -3,16 +3,16 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
 install_ssr (){
-    bash <(curl -s -L https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh)
 }
 install_ssrmu (){
-    bash <(curl -s -L https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh)
 }
 install_ssrr (){
-    bash <(curl -s -L https://git.io/vHRHi)
+bash <(curl -s -L https://git.io/vHRHi)
 }
 install_V2Ray (){
-    bash <(curl -s -L https://git.io/v2ray.sh)
+bash <(curl -s -L https://git.io/v2ray.sh)
 }
 #*****************
 #
